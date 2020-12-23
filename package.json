@@ -1,0 +1,21 @@
+{
+    "name": "deus-ex-theme",
+    "displayName": "Deus Ex Theme",
+    "description": "A black & gold theme extension inspired by the Deus Ex franchise.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Deus Ex Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Deus Ex Theme-color-theme.json"
+            }
+        ]
+    }
+}
