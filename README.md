@@ -1,4 +1,4 @@
-![Deus Ex Theme - Logo](https://i.imgur.com/mSTw9sx.png)
+<p align="center"><img alt="Deus Ex Theme Logo" src="https://i.imgur.com/mSTw9sx.png"></p>
 
 # Deus Ex Theme
 
