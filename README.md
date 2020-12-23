@@ -1,13 +1,20 @@
-# README
-## This is the README for your extension "deus-ex-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+![Deus Ex Theme - Logo](https://i.imgur.com/mSTw9sx.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# Deus Ex Theme
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Modern, cyberpunk-ish and golden. A black and gold theme inspired by the Deus Ex Universe
 
-**Enjoy!**
+## Installation
+
+1. Open Extensions on the sidebar.
+2. Search for Deus Ex Theme.
+3. Install & reload.
+4. Windows: `Ctrl+P` and type "Color Theme".
+   Linux: `Ctrl+P` and type "Color Theme".
+   Mac: `⌘ + ⇧ + p` and type "Color Theme".
+5. Pick Deus Ex Theme from the list and hit enter.
+6. Done.
+
+## Preview
+
+![Deus Ex Theme - Example](https://i.imgur.com/tAQm3sH.png)
