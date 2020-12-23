@@ -1,8 +1,8 @@
 <p align="center"><img alt="Deus Ex Theme Logo" src="https://i.imgur.com/mSTw9sx.png"></p>
 
 # Deus Ex Theme
-
-Modern, cyberpunk-ish and golden. A black and gold theme inspired by the Deus Ex Universe
+[WIP Work in Progress]
+Modern, cyberpunk-ish and golden. A black and gold theme inspired by the Deus Ex Universe.
 
 ## Installation
 
