@@ -17,4 +17,4 @@ Modern, cyberpunk-ish and golden. A black and gold theme inspired by the Deus Ex
 
 ## Preview
 
-![Deus Ex Theme - Example](https://i.imgur.com/eKPB6f8.png)
+![Deus Ex Theme - Example](https://i.imgur.com/JrFAjiP.png)
