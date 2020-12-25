@@ -7,8 +7,20 @@
     "type": "public",
     "url": "https://github.com/murhafshaker/vscode-deus-ex-theme"
   },
+  "homepage": "https://github.com/murhafshaker/vscode-deus-ex-theme",
   "icon": "icon.png",
-  "version": "0.2.1",
+  "keywords": [
+      "theme",
+      "dark",
+      "black",
+      "gold",
+      "deus ex",
+      "deus",
+      "adam jensen",
+      "color theme",
+      "cyberpunk"
+  ],
+  "version": "0.2.2",
   "engines": {
     "vscode": "^1.52.0"
   },
